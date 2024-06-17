@@ -1,16 +1,10 @@
-# slider
+*SLIDER:*
 
-A new Flutter project.
+This is a very simple animated list I created 
+where the list items slide out to the right when tapped.
 
-## Getting Started
+This is a demo video:
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/Sadickachuli/Flutter-list_animation/assets/122355398/18137a01-8322-49aa-9dd0-52c4dbe7863a
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
